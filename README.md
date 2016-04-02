@@ -1,2 +1,2 @@
 # FaceBookHashKey
-Get Hash Key Fro Facebook
+Get Hash Key For Facebook
